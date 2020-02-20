@@ -1,4 +1,4 @@
-# Upscale_Image_Face_Recognition
+# Upscale a French Soccer Team image and Identify Mbappe in the picture
 
 Use pre-trained models to upscale a football team picture and detect a special player in this upscaled picture
 
