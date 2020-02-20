@@ -9,3 +9,7 @@ This repository only contains an ipynb file and all the pictures needed in order
 * pip install ISR
 
 * pip install face_recognition
+
+Here is the final result of the script : 
+
+![picture](identify_mbappe.jpg)
