@@ -4,7 +4,8 @@ Use pre-trained models to upscale a football team picture and detect a special p
 
 This repository only contains an ipynb file and all the pictures needed in order to run it.
 
-Requirements :
+*Requirements :*
 
-pip install ISR
-pip install face_recognition
+* pip install ISR
+
+* pip install face_recognition
