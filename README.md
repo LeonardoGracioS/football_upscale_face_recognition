@@ -6,9 +6,9 @@ This repository only contains an ipynb file and all the pictures needed in order
 
 *Requirements :*
 
-* pip install ISR
-
-* pip install face_recognition
+* numpy
+* ISR
+* face_recognition
 
 You can directly try it on Google Colab, just follow this link and remember to upload all the pictures in the right folder : 
 
